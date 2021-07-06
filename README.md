@@ -1,0 +1,2 @@
+# FUSRP-RNN-Theory
+In this project, we will train a recurrent neural network to perform a variety of cognitive tasks. We will then characterize the network structure of the connections between neurons. By testing for common structures that repeatedly appear upon following training, we will identify structures that contribute to specific computations. We will then develop analytical approaches to describe these network structures and to investigate how these structures can be used for neural computation.
